@@ -21,9 +21,7 @@ useEffect(()=>{
   .catch(err=> console.log(err))
 },[term])
 
-// const onSubmit=()=>{
-//   setTerm(text)
-// }
+
 
   return (
    <>
